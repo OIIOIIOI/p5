@@ -4,7 +4,7 @@ You can use the [editor on GitHub](https://github.com/OIIOIIOI/p5/edit/master/RE
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-[Example](/p5/p5/empty-example)
+[Example](/p5/p5/empty-example/index.html)
 
 ### Markdown
 
